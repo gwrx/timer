@@ -1,5 +1,4 @@
 # timer
-a simple cli timer
 
 A cli egg timer that informs you about the time remaining every time/2.
 
