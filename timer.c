@@ -3,11 +3,10 @@
 #include <unistd.h>
 
 
-
 int main(int argc, const char *argv[]) {
 
 	if (argc <= 3) {
-		printf("Usage: %s [value] [s/m/h] [message]", argv[0]);
+		printf("Usage: %s [value] [s/m/h] [message]\n", argv[0]);
 		exit(EXIT_FAILURE);
 	}
 
